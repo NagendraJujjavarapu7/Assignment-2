@@ -4,7 +4,7 @@ series2 = pd.Series([1, 3, 5, 7, 9])
 #display both the series individually in the console
 print(series1)
 print(series2)
-#Performing arithmetic operations
+#Performing arithmetic operations(+, -, *,/, and %)
 print("Add the two Series:")
 series = series1 + series2
 print(series)
